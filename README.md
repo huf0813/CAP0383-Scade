@@ -8,6 +8,18 @@
   <img src="/assets/SCADE.png" width="700" height="auto"/>
 </p>
 
+## Quic Access to Our Project
+
+<p align="center">
+  <a href="https://github.com/huf0813/scade_ml"> <img src="https://img.shields.io/badge/Tensorflow-Skin%20Detector%20Model-orange?style=for-the-badge&logo=tensorflow" /> </a>
+  <a href="https://github.com/huf0813/scade_ml_api" ><img src="https://img.shields.io/badge/Python-SCADE%20API-blue?style=for-the-badge&logo=python" /> </a>
+  <a href="https://github.com/huf0813/scade_backend_api" ><img src="https://img.shields.io/badge/Golang-Backend%20API-29BEB0?style=for-the-badge&logo=go" /> </a>
+  <a href="https://github.com/dimasbjg/scade" ><img src="https://img.shields.io/badge/Kotlin-Scade%20App-1AA2D4?style=for-the-badge&logo=kotlin" /> </a>
+  <a href="" ><img src="https://img.shields.io/badge/Android%20Apps-1.0%20Ver.-3DDC84?style=for-the-badge&logo=android" /> </a>
+  
+</p>
+
+
 ## About Scade
 
 Cancer impacted about nearly 10 million deaths in the world (WHO) by 2020. One of the most common types of cancer was skin (non-melanoma) with 1.2 million cases. Skin cancer was common but not everyone was aware of this cancer. Most people not doing self-diagnoses, they might not understand how to do it periodically. Because of the late action, the death rate of these cases is still on top of the chart. Through technology, self diagnosis can be provided in an easier way. This may help to prevent skin cancer and reduce the death rate.
