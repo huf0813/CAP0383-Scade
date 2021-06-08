@@ -15,7 +15,7 @@
   <a href="https://github.com/huf0813/scade_ml_api" ><img src="https://img.shields.io/badge/Python-SCADE%20API-blue?style=for-the-badge&logo=python" /> </a>
   <a href="https://github.com/huf0813/scade_backend_api" ><img src="https://img.shields.io/badge/Golang-Backend%20API-29BEB0?style=for-the-badge&logo=go" /> </a>
   <a href="https://github.com/dimasbjg/scade" ><img src="https://img.shields.io/badge/Kotlin-Scade%20App-1AA2D4?style=for-the-badge&logo=kotlin" /> </a>
-  <a href="" ><img src="https://img.shields.io/badge/Android%20Apps-1.0%20Ver.-3DDC84?style=for-the-badge&logo=android" /> </a>
+  <a href="https://drive.google.com/file/d/1DAVU1A-vIpn-v5mjOtthI1qhJcVAs9Gk/view?usp=sharing" ><img src="https://img.shields.io/badge/Android%20Apps-1.0%20Ver.-3DDC84?style=for-the-badge&logo=android" /> </a>
   
 </p>
 
