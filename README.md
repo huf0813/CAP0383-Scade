@@ -8,11 +8,11 @@
   <img src="/assets/SCADE.png" width="700" height="auto"/>
 </p>
 
-## Quic Access to Our Project
+## Quick Access to Our Project
 
 <p align="center">
   <a href="https://github.com/huf0813/scade_ml"> <img src="https://img.shields.io/badge/Tensorflow-Skin%20Detector%20Model-orange?style=for-the-badge&logo=tensorflow" /> </a>
-  <a href="https://github.com/huf0813/scade_ml_api" ><img src="https://img.shields.io/badge/Python-SCADE%20API-blue?style=for-the-badge&logo=python" /> </a>
+  <a href="https://github.com/huf0813/scade_ml_api" ><img src="https://img.shields.io/badge/fastapi-SCADE%20ML%20API-blue?style=for-the-badge&logo=fastapi" /> </a>
   <a href="https://github.com/huf0813/scade_backend_api" ><img src="https://img.shields.io/badge/Golang-Backend%20API-29BEB0?style=for-the-badge&logo=go" /> </a>
   <a href="https://github.com/dimasbjg/scade" ><img src="https://img.shields.io/badge/Kotlin-Scade%20App-1AA2D4?style=for-the-badge&logo=kotlin" /> </a>
   <a href="https://drive.google.com/file/d/1DAVU1A-vIpn-v5mjOtthI1qhJcVAs9Gk/view?usp=sharing" ><img src="https://img.shields.io/badge/Android%20Apps-1.0%20Ver.-3DDC84?style=for-the-badge&logo=android" /> </a>
@@ -35,3 +35,7 @@ That's why SCADE is made to suppress this cases and become a lead solution in th
 :computer: [SCADE ML](https://github.com/huf0813/scade_ml)
 
 :iphone: [SCADE Android](https://github.com/dimasbjg/scade)
+
+## Our Product
+
+:gift: [SCADE Ver, 1,0](https://drive.google.com/file/d/1DAVU1A-vIpn-v5mjOtthI1qhJcVAs9Gk/view?usp=sharing) (5.8MB)
